@@ -83,5 +83,12 @@ body{
   .bn4:hover {
     opacity: 1;
   }
+.home-sci{
+    position: absolute;
+    bottom: 40px;
+    width: 170px;
+    background: red;
+}
+    
 
 
