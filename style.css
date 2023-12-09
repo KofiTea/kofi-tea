@@ -55,6 +55,16 @@ body{
     font-weight: lighter;
 
 }
+.btn{
+    background-color: #f9004d;
+    color:white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 10px 25px;
+    border-radius: 30px;
+    transition: transform .45;
+}
 .bn4 {
     background-color: #ffffff;
     border: none;
